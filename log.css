@@ -1,0 +1,64 @@
+.head{
+
+      background-color: rgba(0,0,0,.5);
+      max-width: 100%;
+      padding-top: 1%;
+      padding-left:5%;
+
+      }
+
+body{
+background-size: cover;
+
+}
+.head .in{
+
+padding-left: 60%;
+padding-bottom: 1%;
+}
+
+
+
+ .A{
+
+   max-width: 100%;
+   padding:.6%;
+ }
+
+.head button{
+background-color: #ab6699;
+border: 0;
+width: 80px;
+height: 30px;
+
+}
+
+.mid{
+
+background-color: rgba(0,0,0,.5);
+max-width: 100%;
+padding-left:8%;
+padding-bottom:2%;
+}
+
+.mid b{
+  align:left;
+  color: white;
+}
+
+.mid input{
+
+  padding: 1%;
+  outline: 0;
+  background: #e0e0eb;
+  border: 0;
+
+
+}
+.mid button{
+background-color: #ab6699;
+border: 0;
+width: 240px;
+height: 30px;
+
+}
